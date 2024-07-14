@@ -1,4 +1,3 @@
-```markdown
 # Contributing to Simple Interest Calculator
 
 Thank you for your interest in contributing to the Simple Interest Calculator project! All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. This document outlines our guidelines for contributing to this project.
@@ -45,5 +44,3 @@ If you need help or have any questions, please reach out by creating an issue or
 ## Thank You
 
 Thank you for helping us improve the Simple Interest Calculator project! Your contributions are greatly appreciated.
-
-```
